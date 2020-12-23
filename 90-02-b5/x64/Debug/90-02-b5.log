@@ -1,0 +1,29 @@
+﻿  cmd_c_cfgtools.c
+D:\BigHW\common\cmd_c_cfgtools.c(90,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\BigHW\common\cmd_c_cfgtools.c(104,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\BigHW\common\cmd_c_cfgtools.c(200,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\BigHW\common\cmd_c_cfgtools.c(214,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\BigHW\common\cmd_c_cfgtools.c(185,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\BigHW\common\cmd_c_cfgtools.c(224,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\BigHW\common\cmd_c_cfgtools.c(236,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\BigHW\common\cmd_c_cfgtools.c(249,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\BigHW\common\cmd_c_cfgtools.c(251,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\BigHW\common\cmd_c_cfgtools.c(270,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\BigHW\common\cmd_c_cfgtools.c(286,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\BigHW\common\cmd_c_cfgtools.c(297,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\BigHW\common\cmd_c_cfgtools.c(311,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\BigHW\common\cmd_c_cfgtools.c(319,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\BigHW\common\cmd_c_cfgtools.c(334,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\BigHW\common\cmd_c_cfgtools.c(337,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\BigHW\common\cmd_c_cfgtools.c(347,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\BigHW\common\cmd_c_cfgtools.c(358,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\BigHW\common\cmd_c_cfgtools.c(388,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\BigHW\common\cmd_c_cfgtools.c(403,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\BigHW\common\cmd_c_cfgtools.c(414,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\BigHW\common\cmd_c_cfgtools.c(429,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\BigHW\common\cmd_c_cfgtools.c(446,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\BigHW\common\cmd_c_cfgtools.c(454,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  common_mybase_tool.c
+  90-02-b5-main.c
+  正在生成代码...
+  90-02-b5.vcxproj -> D:\BigHW\x64\Debug\90-02-b5.exe

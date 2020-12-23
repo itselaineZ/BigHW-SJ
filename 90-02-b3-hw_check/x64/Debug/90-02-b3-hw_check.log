@@ -1,0 +1,9 @@
+﻿  cmd_console_tools.cpp
+  common_mybase_tool.cpp
+  90-02-b3-hw_check.cpp
+D:\BigHW\90-02-b3-hw_check\90-02-b3-hw_check.cpp(98,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\BigHW\90-02-b3-hw_check\90-02-b3-hw_check.cpp(204,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\BigHW\90-02-b3-hw_check\90-02-b3-hw_check.cpp(258,32): warning C4244: “=”: 从“intptr_t”转换到“long”，可能丢失数据
+D:\BigHW\90-02-b3-hw_check\90-02-b3-hw_check.cpp(328,32): warning C4244: “=”: 从“intptr_t”转换到“long”，可能丢失数据
+  正在生成代码...
+  90-02-b3-hw_check.vcxproj -> D:\BigHW\x64\Debug\90-02-b3-hw_check.exe

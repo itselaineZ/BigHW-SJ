@@ -1,0 +1,15 @@
+﻿  cmd_console_tools.cpp
+  cmd_hdc_tools.cpp
+  90-02-b2-test_hdc.cpp
+D:\BigHW\90-02-b2\90-02-b2-test_hdc.cpp(68,39): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  hdc_1851441_cartoon.cpp
+  hdc_1851441_math.cpp
+  hdc_1851573_cartoon.cpp
+  hdc_1851573_math.cpp
+  hdc_1851977_cartoon.cpp
+  hdc_1851977_math.cpp
+  hdc_1952339_cartoon.cpp
+  hdc_1952339_math.cpp
+  test_draw_peppapig.cpp
+  正在生成代码...
+  90-02-b2.vcxproj -> D:\BigHW\x64\Debug\90-02-b2.exe
